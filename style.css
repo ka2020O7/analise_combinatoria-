@@ -58,3 +58,8 @@ body {
     max-width: 100%;
 
 }
+
+.carrosseis{
+    display: flex;
+    align-items: center;
+}
