@@ -47,3 +47,16 @@ body {
     background-color: rgb(228, 53, 53);
     text-align: center;
 }
+
+.container_imagens{
+    display: flex;
+    overflow: auto;
+    scroll-snap-type: x mandatory;
+    padding-bottom: 10px;
+    
+}
+
+.container_imagens img{
+    width: 100%;
+    max-width: 100%;
+}
